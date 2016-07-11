@@ -47,7 +47,7 @@ On a new line of your playground, type `name.`—make sure you type the period a
 
 This popup is referred to as "autocomplete". This menu appears in Xcode whenever you try to call a method on a constant or variable.
 
-Remember, a _method_ is just a function that is attached to a particular data type. Methods are called like functions, except you put the constant or variable you are call on them _before_ the method name, followed by a dot, and then the name of the method. Arguments to the method are supplied the same way they are when you call functions: By placing them in parentheses after the method name. For now, just think of a method as a function. You'll learn a lot more about methods in a later lesson.
+Remember, a _method_ is just a function that is attached to a particular data type. Methods are called like functions, except you put the constant or variable you call on them _before_ the method name, followed by a dot, and then the name of the method. Arguments to the method are supplied the same way they are when you call functions: By placing them in parentheses after the method name. For now, just think of a method as a function. You'll learn a lot more about methods in a later lesson.
 
 Take a look at the autocomplete menu that appeared. All of the items in it are methods that you can call on `String`s. And what you see right now is only some of them! Don't worry what all of them do right now. For now, you're only interested in one that capitalizes your "Audrey" string.
 

@@ -3,18 +3,21 @@
 ![Audrey](http://i.imgur.com/1pI19v7.jpg?1)
 > Nothing is impossible, the word itself says "I'm possible"! -[Audrey Hepburn](https://en.wikipedia.org/wiki/Audrey_Hepburn)
 
+## Overview
+
+We'll use Apple's documentation and specifically cover documentation from the playground file. 
+
 ## Learning Objectives
 
-* Use Apple's documentation.
-* Bring up Apple's documentation from the playground file.
-
-
+* Explore Xcode's basic help features within playground files
+* Use methods to manipulate data types in Swift
+* Access Apple's documentation from the playground file
 
 ## Getting Help
 
 You've learned quite a bit about Swift in your lessons so far. You've learned about Swift's `print` function, the `String` and `Int` data types, and how to create your own functions. There's still a lot of things to learn, though. Luckily, Xcode helps you out a bit with this.
 
-One of the biggest benefits of Xcode is the ability to get help when you need it. Apple ships quite a bit of useful documentation with Xcode that you can easily call up in order to learn more about the code you are writing. It even provides suggestions and helps fill in code in some situations. It's a very useful tool that you will learn a lot more about as you work with Swift...but for now, let's take a look at some of Xcode's basic help features.
+One of the biggest benefits of Xcode is the ability to get help when you need it. Apple ships quite a bit of useful documentation with Xcode that you can easily call up in order to learn more about the code you are writing. It even provides suggestions and helps fill in code in some situations. It's a very useful tool that you will learn a lot more about as you work with Swift but for now, let's take a look at some of Xcode's basic help features.
 
 To see Xcode's help features in action, first create a new playground file. Add this simple constant declaration to your playground:
 
